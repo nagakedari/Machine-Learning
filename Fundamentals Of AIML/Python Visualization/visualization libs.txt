@@ -1,0 +1,5 @@
+matplotlib - gives all sorts of grapsh but basic look and feel
+seaborn - On top of matplotlib, but gives enahanced look and feel for the graphs
+plotly - its a comerical package. Its a more of interactive ang gui based. we can zoom, do all sort of things
+
+uci machine learning - to test/train your algorithm
